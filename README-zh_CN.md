@@ -8,4 +8,5 @@ GitSync 用于在多个git服务器之间同步/镜像源码、例如：定期�
 - [ ] 定期同步任务设置
 - [ ] github 同步到 gitlab
 - [ ] gitea 同步到 gitlab
+- [ ] gitlab 同步到 gitea
 - [ ] UI 管理
